@@ -3,3 +3,7 @@ this is v1 of my proj
 I want this to go into commit2
 
 i changed here
+
+also i changed now
+
+to check diff command
